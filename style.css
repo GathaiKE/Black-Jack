@@ -1,0 +1,45 @@
+/* h1 {
+    color: red;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("ja.png");
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+}
+
+#message-el {
+    color: green;
+    font-weight: bolder;
+    font-size: 3em;
+    font-style: italic;
+}
+p {
+    color: red;
+    font-size: 2em;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    display: inline-block;
+    font-size: 10px;
+    width: 150px;
+    font-weight: bold;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+} */
+#mangoes-el {
+    background-color: blue;
+    color: white;
+}
+#oranges-el {
+    background-color: green;
+    color: white;
+}
